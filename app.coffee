@@ -11,4 +11,4 @@ http.createServer (req, res) ->
     '</body>'
   ].join('')
   res.end html
-.listen 80
+.listen 80, '127.0.0.1'
