@@ -1,2 +1,2 @@
 # medimarkets
-MediMarkets streamlines health care billing for small practices and independent medical professionals.
+With MediMarkets, independent health professionals focus on patients, not paperwork.
