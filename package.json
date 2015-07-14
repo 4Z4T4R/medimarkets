@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "app.coffee",
   "scripts": {
-    "start": "node app.coffee"
+    "start": "coffee app.coffee"
   },
   "engines": {
     "node": "0.12.7"
