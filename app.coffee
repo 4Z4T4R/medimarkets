@@ -11,4 +11,4 @@ http.createServer (req, res) ->
     '</body>'
   ].join('')
   res.end html
-.listen 5000, '127.0.0.1'
+.listen process.env.PORT or 8080, '127.0.0.1'
